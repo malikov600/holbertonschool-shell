@@ -1,1 +1,1 @@
-Shell Permissions project
+My Shell Permissions project
